@@ -1,20 +1,20 @@
 _your zenodo badge here_
 
-# lastname-etal_year_journal
+# mcgrath-etal_2021_JOSS
 
-**A long-term global energy-economic model of carbon dioxide release from fossil fuel use**
+**tell: A python package**
 
-Jae Edmonds<sup>1\*</sup> and John Reilly<sup>1</sup>
+Casey McGrath<sup>1\*</sup>
 
-<sup>1 </sup> Institute for Energy Analysis, Oak Ridge Associated Universities, 1346 Connecticut Avenue, NW, Washington, DC 20036, USA
+<sup>1 </sup> Pacific Northwest National Labratory Richland, WA USA
 
-\* corresponding author:  email@myorg.gov
+\* corresponding author:  casey.mcgrath@pnnl.gov
 
 ## Abstract
-In this paper the authors develop a long-term global energy-economic model which is capable of assessing alternative energy evolutions over periods of up to 100 years. The authors have sought to construct the model so that it can perform its assigned task with as simple a modelling system as possible. The model structure is fully documented and a brief summary of results is given.
+TODO
 
 ## Journal reference
-Edmonds, J., & Reilly, J. (1983). A long-term global energy-economic model of carbon dioxide release from fossil fuel use. Energy Economics, 5(2), 74-88. DOI: https://doi.org/10.1016/0140-9883(83)90014-2
+TODO 
 
 ## Code reference
 References for each minted software release for all code involved.  
